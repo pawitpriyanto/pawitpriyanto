@@ -8,9 +8,9 @@
 :heart: Programming | :black_heart: Footbal | :blue_heart: Comedy
   
 
-- 🔭 I’m currently working on Sign Language Translator to Malayalam Application using Flutter and Python.
-- 🌱 I’m currently learning Data Science | Full Stack Web development | App Development | NLP | Cyber Security
-- 👯 I’m looking to collaborate on Machine Learning and Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning NextJS
+- 💞️ I’m looking to collaborate on github
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: There is always time. You just have to find it.
 - 📫 How to reach me:
